@@ -1,0 +1,55 @@
+{"formations":[{
+	"name": "3-3-1",
+	"positions_list":[{
+		"ID": 0,
+		"position": "GK",
+		"connections_list":[1, 2]
+	},{
+		"ID": 1,
+		"position": "CB",
+		"side": "R",
+		"connections_list":[0, 2, 3, 4]
+	},{
+		"ID": 2,
+		"position": "CB",
+		"side": "L",
+		"connections_list":[0, 1, 5, 6]
+	},{
+		"ID": 3,
+		"position": "RB",
+		"connections_list":[1, 7]
+	},{
+		"ID": 4,
+		"position": "CM",
+		"side": "R",
+		"connections_list":[1, 6, 7, 8]
+	},{
+		"ID": 5,
+		"position": "LB",
+		"connections_list":[2, 9]
+	},{
+		"ID": 6,
+		"position": "CM",
+		"side": "L",
+		"connections_list":[2, 4, 9, 10]
+	},{
+		"ID": 7,
+		"position": "RM",
+		"connections_list":[3, 4, 8]
+	},{
+		"ID": 8,
+		"position": "ST",
+		"side": "R",
+		"connections_list":[4, 7, 10]
+	},{
+		"ID": 9,
+		"position": "LM",
+		"connections_list":[5, 6, 10]
+	},{
+		"ID": 10,
+		"position": "ST",
+		"side": "L",
+		"connections_list":[6, 8, 9]
+	}]
+}
+]}
