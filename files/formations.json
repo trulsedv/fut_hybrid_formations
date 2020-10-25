@@ -52,6 +52,21 @@
 		"connections_list":[6, 8, 9]
 	}]
 },{
+	"name": "2-1",
+	"positions_list":[{
+		"ID": 0,
+		"position": "RB",
+		"connections_list":[1, 2]
+	},{
+		"ID": 1,
+		"position": "LB",
+		"connections_list":[0, 2]
+	},{
+		"ID": 2,
+		"position": "CAM",
+		"connections_list":[0, 1]
+	}]
+},{
 	"name": "2-1-1",
 	"positions_list":[{
 		"ID": 0,
