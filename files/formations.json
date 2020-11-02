@@ -108,5 +108,28 @@
 		"position": "ST",
 		"connection_list":[2]
 	}]
+},{
+	"name": "1-2-1-1",
+	"positions_list":[{
+		"ID": 0,
+		"position": "RM",
+		"connection_list":[1, 3]
+	},{
+		"ID": 1,
+		"position": "CB",
+		"connection_list":[0, 2]
+	},{
+		"ID": 2,
+		"position": "LM",
+		"connection_list":[1, 3]
+	},{
+		"ID": 3,
+		"position": "CAM",
+		"connection_list":[0, 2, 4]
+	},{
+		"ID": 4,
+		"position": "ST",
+		"connection_list":[3]
+	}]
 }
 ]}
